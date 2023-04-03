@@ -1,0 +1,4 @@
+D:/DBMS4/cmake-build-debug/CMakeFiles/DBMS4.dir
+D:/DBMS4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DBMS4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/DBMS4/cmake-build-debug/CMakeFiles/DBMS4_autogen.dir
